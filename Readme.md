@@ -1,12 +1,19 @@
-* Must be in the root directory of the project to execute the following commands
+> ### **Must be in the root directory of the project to execute the following commands**
 
-* Running Tests:
+> #### **Running Test**
+
+```
 
 - $ python3 manage.py test
 
-* Running project:
+```
 
+
+> #### **Running Project**
+```
 - $ python3 manage.py runserver
+
+```
 
 *Notes:
 
